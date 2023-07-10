@@ -1,0 +1,40 @@
+Latitude: 4/30/2023, 3:58:14 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.110.121, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0840483, Longitude: 125.5581754, Time: undefined, IP Address: undefined
+Latitude: 4/30/2023, 4:00:46 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0840482, Longitude: 125.5581796, Time: undefined, IP Address: undefined
+Latitude: 30/04/2023, 20:14:10, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.110.121, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/2/2023, 5:33:50 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/2/2023, 5:51:41 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0688182, Longitude: 125.5985986, Time: undefined, IP Address: undefined
+Latitude: 5/9/2023, 5:49:03 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0688182, Longitude: 125.5985986, Time: undefined, IP Address: undefined
+Latitude: 5/10/2023, 6:13:40 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0688182, Longitude: 125.5985986, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/10/2023, 7:22:04 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0688182, Longitude: 125.5985986, Time: undefined, IP Address: undefined
+Latitude: 5/10/2023, 7:30:32 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0688182, Longitude: 125.5985986, Time: undefined, IP Address: undefined
+Latitude: 5/10/2023, 7:40:52 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 175.176.89.141, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/15/2023, 6:48:31 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 202.137.113.202, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 7.0681754, Longitude: 125.5960281, Time: undefined, IP Address: undefined
+Latitude: 5/16/2023, 11:22:35 AM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.109.13, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.107.143, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/20/2023, 6:07:53 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 20/05/2023, 18:57:07, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.107.143, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/21/2023, 5:29:44 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.107.143, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 5/26/2023, 2:08:43 PM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.105.137, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 6/15/2023, 10:03:27 AM, Longitude: undefined, Time: undefined, IP Address: undefined
+Latitude: 49.149.102.110, Longitude: undefined, Time: undefined, IP Address: undefined
